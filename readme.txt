@@ -2,7 +2,7 @@
 Contributors: Kubitomakita
 Tags: fly, bug, insect, easter egg
 Requires at least: 2.0
-Tested up to: 4.2.2
+Tested up to: 4.3
 Stable tag: 1.0
 
 This plugin just display a fly on the screen.
